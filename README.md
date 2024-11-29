@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there!</h1>
-<h3 align="center">I'm Bernat, a curious, active and coding-lover looking forward to work with you! :) </h3>
+<h3 align="center">I'm Bernat, a curious, active and coding-lover person looking forward to work with you!</h3>
 
 
 ## About me
