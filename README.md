@@ -30,6 +30,7 @@
 
 <h3 align="left">✅ Completed projects</h3>
 
+![PUSH_SWAP](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapn.png)
 ![GNL](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png?raw=true)
 ![PrintF](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png?raw=true)
 ![B2BR](https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png?raw=true)
@@ -38,8 +39,9 @@
 
 <h3 align="left">🛠️ Work in progress </h3>
 
-![PUSH_SWAP](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapn.png)
 ![PIPEX](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexn.png?raw=true)
+![FdF](https://github.com/ayogun/42-project-badges/blob/main/badges/fdfn.png?raw=true)
+
 <!---
 BCanals/BCanals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 🌱💞️
