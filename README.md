@@ -30,7 +30,7 @@
 
 <h3 align="left">✅ Completed projects</h3>
 
-![PUSH_SWAP](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapn.png)
+![PUSH_SWAP](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png)
 ![GNL](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png?raw=true)
 ![PrintF](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png?raw=true)
 ![B2BR](https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png?raw=true)
